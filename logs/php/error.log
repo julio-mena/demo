@@ -1,0 +1,445 @@
+[09-Jul-2024 09:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/views/redirect.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/views/redirect.php on line 4
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Async_Request" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/classes/wp-background-process.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/classes/wp-background-process.php on line 14
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_UnitTestCase" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/tests/Test_WP_Background_Process.php:15
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/tests/Test_WP_Background_Process.php on line 15
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_UnitTestCase" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/tests/Test_Setup.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/tests/Test_Setup.php on line 11
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/wp-background-processing.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/wp-background-processing.php on line 20
+[09-Jul-2024 09:23:26 UTC] PHP Warning:  require(/Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/../vendor/autoload.php): Failed to open stream: No such file or directory in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/generate_docs.php on line 3
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/../vendor/autoload.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/generate_docs.php:3
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/generate_docs.php on line 3
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleXmlDom" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDom.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDom.php on line 14
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Interface "voku\helper\DomParserInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/AbstractDomParser.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/AbstractDomParser.php on line 7
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleHtmlDomNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomNodeBlank.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomNodeBlank.php on line 10
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Interface "voku\helper\SimpleHtmlAttributesInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlAttributes.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlAttributes.php on line 10
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleXmlDomNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomNodeBlank.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomNodeBlank.php on line 10
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleHtmlDomNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomNode.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomNode.php on line 10
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleHtmlDom" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDom.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDom.php on line 14
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleXmlDom" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomBlank.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomBlank.php on line 14
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Could not check compatibility between voku\helper\SimpleXmlDomInterface::getIterator(): voku\helper\SimpleXmlDomNodeInterface and IteratorAggregate::getIterator(): Traversable, because class voku\helper\SimpleXmlDomNodeInterface is not available in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomInterface.php on line 226
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleXmlDomNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomNode.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomNode.php on line 10
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleHtmlDom" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomBlank.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomBlank.php on line 14
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Could not check compatibility between voku\helper\SimpleHtmlDomInterface::getIterator(): voku\helper\SimpleHtmlDomNodeInterface and IteratorAggregate::getIterator(): Traversable, because class voku\helper\SimpleHtmlDomNodeInterface is not available in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomInterface.php on line 243
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractDomParser" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/XmlDomParser.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/XmlDomParser.php on line 16
+[09-Jul-2024 09:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractDomParser" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/HtmlDomParser.php:34
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/HtmlDomParser.php on line 34
+[09-Jul-2024 09:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\Bootup" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/portable-utf8/bootstrap.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/voku/portable-utf8/bootstrap.php on line 6
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Cannot declare class Attribute, because the name is already in use in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php on line 13
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php:31
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php on line 31
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php on line 26
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php on line 27
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php on line 28
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php on line 27
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php:29
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php on line 29
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\Extension\ExtensionInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\TranslatorInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Translator.php:31
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php on line 27
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php on line 30
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php:28
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php on line 28
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/StringHandler.php:32
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/StringHandler.php on line 32
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/HashHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/HashHandler.php on line 30
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php on line 29
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Parser.php:28
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Parser.php on line 28
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/InternalErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/InternalErrorException.php on line 22
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/SyntaxErrorException.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/SyntaxErrorException.php on line 24
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Exception\ExceptionInterface" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/ParseException.php:22
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/ParseException.php on line 22
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/ExpressionErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/ExpressionErrorException.php on line 22
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-simply-cdn-task.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-simply-cdn-task.php on line 8
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-cancel-task.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-cancel-task.php on line 7
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-transfer-files-locally-task.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-transfer-files-locally-task.php on line 8
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Simply_Static\ABSPATH" in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-create-zip-archive.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-create-zip-archive.php on line 4
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-setup-task.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-setup-task.php on line 8
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-generate-404-task.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-generate-404-task.php on line 8
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php on line 8
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-wrapup-task.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-wrapup-task.php on line 7
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-rank-math-integration.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-rank-math-integration.php on line 7
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-elementor-pro-integration.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-elementor-pro-integration.php on line 7
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-yoast-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-yoast-integration.php on line 5
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-elementor-integration.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-elementor-integration.php on line 7
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-aio-seo-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-aio-seo-integration.php on line 5
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-cookie-yes-integration.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-cookie-yes-integration.php on line 7
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-brizy-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-brizy-integration.php on line 5
+[09-Jul-2024 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-jetpack-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-jetpack-integration.php on line 5
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-seopress-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/integrations/class-seopress-integration.php on line 5
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/compatible-plugins.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/compatible-plugins.php on line 2
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Page_Handler" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-yoast-sitemap-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-yoast-sitemap-handler.php on line 5
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Page_Handler" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-rank-math-sitemap-handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-rank-math-sitemap-handler.php on line 8
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Page_Handler" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/handlers/class-brizy-image-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/handlers/class-brizy-image-handler.php on line 5
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Page_Handler" not found in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-handler-404.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-handler-404.php on line 5
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/functions.php on line 147
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-centered-statement-small.php:19
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-centered-statement-small.php on line 19
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/template-index-blogging.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/template-index-blogging.php on line 16
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-subscribe-centered.php:19
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-subscribe-centered.php on line 19
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-full-screen-image.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-full-screen-image.php on line 9
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/banner-project-description.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/banner-project-description.php on line 16
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-search.php on line 9
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-feature-grid-3-col.php:15
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-feature-grid-3-col.php on line 15
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-services-image-left.php:18
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-services-image-left.php on line 18
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php on line 20
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-alternating-images.php:18
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-alternating-images.php on line 18
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-content-image-on-right.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-content-image-on-right.php on line 17
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-rsvp.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-rsvp.php on line 10
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/page-rsvp-landing.php:13
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/page-rsvp-landing.php on line 13
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/template-index-portfolio.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/template-index-portfolio.php on line 16
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-title-left-image-right.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-title-left-image-right.php on line 20
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-post-navigation.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-post-navigation.php on line 9
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-comments.php:12
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-comments.php on line 12
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-404.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-404.php on line 10
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/page-newsletter-landing.php:19
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/page-newsletter-landing.php on line 19
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/team-4-col.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/team-4-col.php on line 10
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-pricing.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/cta-pricing.php on line 10
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-faq.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-faq.php on line 11
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-centered-statement.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-centered-statement.php on line 20
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-sidebar.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-sidebar.php on line 17
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/posts-list.php:13
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/posts-list.php on line 13
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-project-details.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/text-project-details.php on line 17
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/footer-colophon-3-col.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/footer-colophon-3-col.php on line 16
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/footer.php:40
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/footer.php on line 40
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/banner-hero.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/banner-hero.php on line 17
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/posts-grid-2-col.php:13
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/posts-grid-2-col.php on line 13
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-post-meta.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-post-meta.php on line 20
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-no-results.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-no-results.php on line 9
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/testimonial-centered.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/testimonial-centered.php on line 11
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-portfolio-hero.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-portfolio-hero.php on line 16
+[09-Jul-2024 09:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/footer-centered-logo-nav.php:21
+Stack trace:
+#0 {main}
+  thrown in /Users/mena/Local Sites/htdocs/demo/app/public/wp-content/themes/twentytwentyfour/patterns/footer-centered-logo-nav.php on line 21
